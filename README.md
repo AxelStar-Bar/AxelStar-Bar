@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AxelStar-Bar
-- 👀 I’m interested in learn and show antymalware strategi
-- 🌱 I’m currently learning AI and antimalware
-- 💞️ I’m looking to collaborate on AI and antimalware
+- 👀 I’m interested in learn and show antymalware strategy
+- 🌱 I’m currently learning AI and antymalware
+- 💞️ I’m looking to collaborate on AI and antymalware
 - 📫 How to reach me ...
 
 <!---
